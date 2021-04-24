@@ -1,5 +1,5 @@
 ## Purpose
-If you don't use Jetpack ViewModel for component, you should transfer the instance to Composable function as Parameter.as
+If you don't use Jetpack ViewModel for Compose, you should transfer the instance to Composable function as Parameter.as
 Or you can build provider with ProvidableCompositionLocal. Once you select ProvidableCompositionLocal, it comes some boiler-plate code.ProvidableCompositionLocal.ProvidableCompositionLocal.
 This project is how to write less code with KSP.
 
